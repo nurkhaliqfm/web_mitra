@@ -1,8 +1,8 @@
 <?php
 
 $server = "localhost";
-$user = "root";
-$password = "";
+$user = "admin";
+$password = "caseclosedaptx4869";
 $nama_database = "u5023687_pangoje";
 //$nama_database = "pangoje_informasi";
 
